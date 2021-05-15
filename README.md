@@ -4,7 +4,9 @@
 > Spoken words fly away, written word remain. </br>
 > The words flies injection remains ... </br>
 > </br>
-> 
+
+![metin](resim linki)
+
 <!--
 **nazanbahar/NazanBahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
