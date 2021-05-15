@@ -5,7 +5,7 @@
 > The words flies injection remains ... </br>
 > </br>
 
-![metin](resim linki)
+![searching](https://github.com/nazanbahar/NazanBahar/blob/main/github-social.png)
 
 <!--
 **nazanbahar/NazanBahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
