@@ -1,5 +1,3 @@
-### 
-
 > Verba volant scripta manent. </br>
 > Spoken words fly away, written word remain. </br>
 > The words flies injection remains ... </br>
